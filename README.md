@@ -29,4 +29,4 @@ Saya adalah mahasiswa semester 5 di Bina Nusantara University yang memiliki kete
 - **Tautan Dokumen:** [Desain Jaringan](https://drive.google.com/drive/folders/1zcIFxA0Qyx4SaSucbdJe45XmjVGzT1yt?usp=sharing)
 
 ---
-*Silakan unduh file PDF portofolio lengkap saya [di sini](#) (link ke Porto.pdf).* 
+*Silakan unduh file PDF portofolio lengkap saya [di sini](https://github.com/EstevanKamal/EstevanKamal/blob/main/Porto.pdf).* 
